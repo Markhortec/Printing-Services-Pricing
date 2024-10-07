@@ -1,0 +1,393 @@
+
+@media only screen and (max-width:1440px){
+    .mammmm{
+        display: none;
+      }
+    }
+    @media only screen and (max-width: 1080px) {
+      .carousel-caption {
+        bottom: 96px;
+      }
+    }
+    @media only screen and (max-width: 926px) {
+      .carousel-caption {
+        bottom: 100px;
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 70px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+        letter-spacing: 1px;
+      }
+      .carousel-caption p {
+        font-size: 18px;
+        top: 2rem;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        font-weight: 500;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 30px;
+      }
+    }
+    @media only screen and (max-width: 836px) {
+      .carousel-caption {
+        bottom: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 70px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+        letter-spacing: 1px;
+      }
+      .carousel-caption p {
+        font-size: 18px;
+        top: 2rem;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        font-weight: 500;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 30px;
+      }
+    }
+    @media only screen and (max-width: 760px) {
+      .carousel-caption {
+        bottom: 100px;
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 50px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 1rem;
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+        letter-spacing: 1px;
+      }
+      .carousel-caption p {
+        font-size: 16px;
+        top: 2rem;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        font-weight: 500;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 20px;
+      }
+     
+    }
+    @media only screen and (max-width: 677px) {
+      .carousel-caption {
+        bottom: 140px;
+        padding-left: 100px;
+        padding-right: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 40px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 1rem;
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+        letter-spacing: 1px;
+      }
+      .carousel-caption p {
+        font-size: 12px;
+        top: 2rem;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 2rem;
+        font-weight: 500;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 20px;
+      }
+     
+    }
+    @media only screen and (max-width: 601px) {
+      .carousel-caption {
+        bottom: 150px;
+        padding-left: 90px;
+        padding-right: 90px;
+        padding-top: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 30px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+        margin-bottom: 1rem;
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+        letter-spacing: 1px;
+      }
+      .carousel-caption p {
+        font-size: 10px;
+       
+    
+        font-weight: 500;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 10px;
+      }
+      
+      .btn1 {
+        margin-top: 18px;
+        
+        box-shadow: 3px 3px 0 0 #7ab55f;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 35px;
+        padding-right: 30px;
+
+        text-align: center;
+        border: none;
+      }
+    
+      .btn2 {
+        margin-left: 15px;
+        margin-top: 18px;
+        background-color: white;
+        box-shadow: 3px 3px 0 0 #7ab55f;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 35px;
+        padding-right: 30px;
+        text-transform: capitalize;
+        color: rgb(122, 181, 95);
+        font-weight: 500;
+        border-radius: 0%;
+        text-align: center;
+        border: none;
+      }
+    }
+    @media only screen and (max-width: 560px) {
+      .carousel-caption {
+        bottom: 180px;
+      }
+      .carousel-caption h5 {
+        font-size: 22px;
+        font-weight: 600;
+        font-family: Poppins, sans-serif;
+
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+ 
+      }
+      .carousel-caption p {
+        font-size: 10px;
+        margin-top: 10px;
+              font-family: Poppins, sans-serif;
+       
+        font-weight: 500;
+    
+        word-spacing: 3px;
+      }
+    
+      .btn1 {
+        margin-top: 10px;
+        background-color: #ee6311;
+        box-shadow: 1px 1px 0 0 #7ab55f;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-transform: capitalize;
+        color: white;
+        font-weight: 500;
+        border-radius: 0%;
+        text-align: center;
+        border: none;
+        font-size: 10px;
+      }
+    
+      .btn2 {
+    
+        margin-top: 10px;
+        background-color: white;
+        box-shadow: 1px 1px 0 0 #7ab55f;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-transform: capitalize;
+        color: rgb(122, 181, 95);
+        font-weight: 500;
+        border-radius: 0%;
+        text-align: center;
+        border: none;
+        font-size: 10px;
+      }
+    }
+    @media only screen and (max-width: 472px) {
+      .carousel-caption {
+        bottom: 176px;
+        padding-left: 90px;
+        padding-right: 90px;
+        padding-top: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 25px;
+        font-weight: 700;
+      
+        text-shadow: 1.5px 1.5px rgb(90, 197, 252);
+    
+      }
+      .carousel-caption p {
+        font-size: 10px;
+        margin-top: 10px;
+    
+      
+        font-weight: 500;
+      
+        word-spacing: 3px;
+      }
+      .slider btn {
+        margin-top: 0px;
+      }
+    
+      .btn1 {
+        margin-top: 10px;
+        background-color: #ee6311;
+        box-shadow: 0.5px 0.5px 0 0 #7ab55f;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right: 7px;
+        text-transform: capitalize;
+        color: white;
+        font-weight: 500;
+        border-radius: 0%;
+        text-align: center;
+        border: none;
+        font-size: 10px;
+      }
+    
+      .btn2 {
+     
+        margin-top: 10px;
+        background-color: white;
+        box-shadow: 0.5px 0.5px 0 0 #7ab55f;
+        padding-top: 5x;
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right: 7px;
+        text-transform: capitalize;
+        color: rgb(122, 181, 95);
+        font-weight: 500;
+        border-radius: 0%;
+        text-align: center;
+        border: none;
+        font-size: 10px;
+      }
+    }
+    @media only screen and (max-width: 408px) {
+      .carousel-caption {
+        bottom: 176px;
+        padding-left: 90px;
+        padding-right: 90px;
+        padding-top: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 14px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+    
+        text-shadow: 1px 1px rgb(90, 197, 252);
+      }
+      .carousel-caption p {
+        font-size: 10px;
+    
+        font-family: Poppins, sans-serif;
+    
+        font-weight: 500;
+    
+        word-spacing: 3px;
+      }
+    }
+    @media only screen and (max-width: 370px) {
+      .carousel-caption {
+        bottom: 206px;
+        padding-left: 90px;
+        padding-right: 90px;
+        padding-top: 100px;
+      }
+      .carousel-caption h5 {
+        font-size: 14px;
+        font-weight: 700;
+        font-family: Poppins, sans-serif;
+    
+        text-shadow: 1px 1px rgb(90, 197, 252);
+      }
+      .carousel-caption p {
+        font-size: 7px;
+    
+        font-family: Poppins, sans-serif;
+    
+        font-weight: 500;
+    
+        word-spacing: 3px;
+      }
+    }
+    @media only screen and (max-width: 370px) {
+      .carousel-caption {
+        bottom: 204px;
+      }
+      .carousel-caption h5 {
+        font-size: 13px;
+        font-weight: 600;
+        font-family: Poppins, sans-serif;
+    
+        text-shadow: 0.5px 0.5px rgb(90, 197, 252);
+      }
+      .carousel-caption p {
+        font-size: 7px;
+    
+        font-family: Poppins, sans-serif;
+    
+        font-weight: 400;
+    
+        word-spacing: 2px;
+      }
+   
+     /* .carousel-control-prev-icon,
+      .carousel-control-next-icon {
+        position: relative;
+        top: -60px;
+      } */
+      .btn1 {
+        display: none;
+      }
+    
+      .btn2 {
+        display: none;
+      }
+    }
+    @media only screen and (max-width: 364px){
+    .carousel-item {
+      height: 64vh;
+     
+    }
+    }
+    @media only screen and (max-width: 342px){
+      .carousel-item {
+        height: 62vh;
+        min-height: 300px;
+      }
+    }
+   
+    
